@@ -11353,7 +11353,11 @@ p {
 #mainNav .navbar-brand {
   color: #2fa490;
   font-family: 'Righteous', cursive;
+
   font-weight: 700;
+
+
+
   letter-spacing: 0.0625em;
 
 }
@@ -11410,6 +11414,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+
   background-image: url("/assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;

@@ -11,6 +11,7 @@ export class NavbarComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  
 
 }
 
@@ -35,6 +36,9 @@ window.addEventListener('DOMContentLoaded', event => {
 
   // Shrink the navbar when page is scrolled
   document.addEventListener('scroll', navbarShrink);
+
+
+
 
 });
 
